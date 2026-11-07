@@ -1,0 +1,1 @@
+{ "name": "kota-paneli", "version": "0.1.0", "description": "Claude kullanım kotalarını (5 saatlik ve haftalık pencere) sohbetin yanındaki panelde gösterir", "types": "./types/index.d.ts", "license": "MIT" }

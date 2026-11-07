@@ -1,0 +1,5 @@
+{
+  "name": "claude-kota-paneli",
+  "owner": { "name": "4rche0n" },
+  "plugins": [{ "name": "kota-paneli", "source": "./" }]
+}
